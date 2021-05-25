@@ -1,0 +1,9 @@
+.container{
+    padding-bottom: 10rem;
+}
+
+.container > h2, .container > p{
+    color: teal;
+    margin: auto;
+    padding: 1rem;
+}

@@ -1,0 +1,13 @@
+.container{
+    /* background-color: #023e8a; */
+    width: 70%;
+    height: 90vh;
+    margin: 5rem auto;
+    padding: 5rem;
+    color: teal;
+}
+
+.container > p{
+    padding: 0;
+    color: teal;
+}
